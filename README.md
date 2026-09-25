@@ -72,7 +72,7 @@ We hope all members of the module regularly participate. We define participation
 * Learning Support Staff: 
   * **Tianyi Liu** tianyi@psi.toronto.edu
   * **Edward Chen** edwardty.chen@utoronto.ca
-  * **Nestor Rojas** nestor.rojas@live.com
+  * **Nestor Rojas**
   
 
 ## Delivery of the Learning Module
